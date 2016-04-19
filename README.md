@@ -1,4 +1,4 @@
-# YosembiancePlusLogan
+# Yosembiance Plus Logan
 YosembiancePL is forked [Yosembiance](http://www.sundman.ca/themes/yosembiance/) GTK+ theme.
 
 ###Changes compared to the original
