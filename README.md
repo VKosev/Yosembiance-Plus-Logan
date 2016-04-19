@@ -9,4 +9,4 @@ YosembiancePL is forked [Yosembiance](http://www.sundman.ca/themes/yosembiance/)
 ###Theme is tested and working on Ubuntu 14.04 LTS.
 
 ####Feel free to report for bugs and test the theme on other platforms.
-![yospreview](https://cloud.githubusercontent.com/assets/16247310/14655140/9f157a86-0689-11e6-98ad-626ffe2fa17d.png)
+![yospreview](https://cloud.githubusercontent.com/assets/16247310/14655548/746751a4-068b-11e6-8155-9fcadf046edd.png)
